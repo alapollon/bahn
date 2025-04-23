@@ -1,7 +1,8 @@
 # BAHN 
     an open-end mobile dashboard for navigation and public services. In policy compliance with 
-    any providence. Withstanding emergency services priority
+    all providences. Withstanding emergency services priority and response-time
 
+    
 ... more to be mentioned 
  
 
