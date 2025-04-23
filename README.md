@@ -1,2 +1,7 @@
-# bahn
-an open end taxi customer information service for businesses and clients 
+# BAHN 
+    an open-end mobile dashboard for navigation and public services. In policy compliance with 
+    any providence. Withstanding emergency services priority
+
+... more to be mentioned 
+ 
+
